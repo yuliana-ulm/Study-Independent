@@ -1,0 +1,96 @@
+/*bagian atas*/
+.header{
+    margin: auto;
+    padding: 5px;
+    background-color: #D3E4CD;
+}
+
+.foto{
+    position: absolute;
+    left: 10px;
+}
+h1{
+    text-align: center;
+}
+
+/*bagian tengah*/
+
+.teks{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+.box2{
+    top: 25%;
+    background-color: #D3E4CD;
+    width: 200px;
+    height: 400px;
+    padding: 20px;
+    text-align: justify;
+    position: absolute;
+    left:2%;
+}
+
+.box3{
+    width: 100%;
+    height: 30px;
+    padding: 10px;
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: justify;
+    position: absolute;
+}
+
+.boxKecil1 .atur{
+    margin-left: 8px;
+    width: 250px;
+    height: 30px;
+    border: none;
+}
+
+button:hover{
+    color:green;
+    font-size: 13px;
+    font-style:bold;
+    cursor: wait;
+}
+/*inputan*/
+.box4{
+    margin-top: 4%;
+    margin-left: 20%;
+    width: 1065px;
+    height: 440px;
+}
+.kolom-input {
+    margin-top: 1%;
+    /*background-color: #FEF5ED;*/
+    border: 1px solid #ddd;
+    padding: 25px;
+}
+.kolom-input label,
+.kolom-input button {
+    color: green;     /* Warna: Purple */
+    display: block;
+    font-size: 12px;
+    font-weight: bold;
+    letter-spacing: 0.05em;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.kolom-input input[type="text"],
+.kolom-input button {
+    border: none;
+    border-bottom: 1px solid #ddd;
+    color: #333;
+    font-size: 14px;
+    margin-bottom: 15px;
+    padding: 0.5em 1em 0.5em 0;
+    width: 300px;     /* Ukuran bebas */
+}
+
+.kolom-input[type="text"]:focus,
+.kolom-input textarea:focus {
+    border-bottom: 1px solid #000;
+    outline: none;
+}
