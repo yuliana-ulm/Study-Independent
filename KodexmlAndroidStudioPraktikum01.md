@@ -1,7 +1,6 @@
 -----praktikum awalan default kode
 
-'''
-xml
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -11,11 +10,12 @@ xml
     tools:context=".MainActivity2">
 
 </androidx.constraintlayout.widget.ConstraintLayout>
-'''
+```
 
 
 ----praktikum 1
 
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
 xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -40,11 +40,12 @@ tools:context=".MainActivity">
     app:layout_constraintVertical_bias="0.224" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
-
+```
 
 
 ----praktikum 2
 
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
 xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -63,11 +64,12 @@ tools:context=".MainActivity">
     android:layout_centerInParent="true"
     />
 </RelativeLayout>
-
+```
 
 
 -----praktikum 3
 
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -104,3 +106,4 @@ tools:context=".MainActivity">
         />
 
 </LinearLayout>
+```
