@@ -29,4 +29,11 @@
  ![image](https://user-images.githubusercontent.com/112523858/226172369-73b58745-bcdf-45ab-ac7e-6742164a3a4a.png)
 
  
+ 
+ 
+ 
+ dikost menyubuh
+ 
+ ![image](https://user-images.githubusercontent.com/112523858/226209891-095deff5-ec63-46c5-8cdb-cf719d198e5d.png)
+
 
